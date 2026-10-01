@@ -1,0 +1,22 @@
+{
+  "name": "cotton-harvest",
+  "label": "Пахта йиғими",
+  "type": "widget",
+  "version": "1.14.0",
+  "exbVersion": "1.14.0",
+  "author": "Javokhirbek Parpikhodjaev",
+  "description": "UZGPS cotton harvest monitoring portal: map of fields and combines, field and combine cards, report.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasSettingPage": true,
+    "supportInlineEditing": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 1280,
+    "height": 800
+  }
+}
